@@ -1,0 +1,26 @@
+running egg_info
+writing ../build/task_pekage/task_pekage.egg-info/PKG-INFO
+writing dependency_links to ../build/task_pekage/task_pekage.egg-info/dependency_links.txt
+writing entry points to ../build/task_pekage/task_pekage.egg-info/entry_points.txt
+writing requirements to ../build/task_pekage/task_pekage.egg-info/requires.txt
+writing top-level names to ../build/task_pekage/task_pekage.egg-info/top_level.txt
+reading manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+writing manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+running build
+running build_py
+copying task_pekage/cinematica.py -> /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage
+copying task_pekage/serial_node_arduino.py -> /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage
+running install
+running install_lib
+copying /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage/cinematica.py -> /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage
+copying /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage/serial_node_arduino.py -> /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage
+byte-compiling /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage/cinematica.py to cinematica.cpython-310.pyc
+byte-compiling /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage/serial_node_arduino.py to serial_node_arduino.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/task_pekage/task_pekage.egg-info to /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage-0.0.0-py3.10.egg-info
+running install_scripts
+Installing cinematica script to /home/victor/task_quatro/src/install/task_pekage/lib/task_pekage
+Installing serial_node_arduino script to /home/victor/task_quatro/src/install/task_pekage/lib/task_pekage
+writing list of installed files to '/home/victor/task_quatro/src/build/task_pekage/install.log'

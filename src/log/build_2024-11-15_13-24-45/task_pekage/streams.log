@@ -1,0 +1,33 @@
+[0.721s] Invoking command in '/home/victor/task_quatro/src/task_pekage': PYTHONPATH=/home/victor/task_quatro/src/build/task_pekage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task_pekage build --build-base /home/victor/task_quatro/src/build/task_pekage/build install --record /home/victor/task_quatro/src/build/task_pekage/install.log --single-version-externally-managed install_data
+[0.970s] running egg_info
+[0.970s] creating ../build/task_pekage/task_pekage.egg-info
+[0.970s] writing ../build/task_pekage/task_pekage.egg-info/PKG-INFO
+[0.971s] writing dependency_links to ../build/task_pekage/task_pekage.egg-info/dependency_links.txt
+[0.971s] writing entry points to ../build/task_pekage/task_pekage.egg-info/entry_points.txt
+[0.971s] writing requirements to ../build/task_pekage/task_pekage.egg-info/requires.txt
+[0.971s] writing top-level names to ../build/task_pekage/task_pekage.egg-info/top_level.txt
+[0.971s] writing manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+[0.973s] reading manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+[0.974s] writing manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+[0.974s] running build
+[0.974s] running build_py
+[0.974s] creating /home/victor/task_quatro/src/build/task_pekage/build
+[0.974s] creating /home/victor/task_quatro/src/build/task_pekage/build/lib
+[0.974s] creating /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage
+[0.974s] copying task_pekage/__init__.py -> /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage
+[0.975s] running install
+[0.975s] running install_lib
+[0.975s] creating /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage
+[0.975s] copying /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage/__init__.py -> /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage
+[0.976s] byte-compiling /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage/__init__.py to __init__.cpython-310.pyc
+[0.976s] running install_data
+[0.977s] creating /home/victor/task_quatro/src/install/task_pekage/share/ament_index
+[0.977s] creating /home/victor/task_quatro/src/install/task_pekage/share/ament_index/resource_index
+[0.977s] creating /home/victor/task_quatro/src/install/task_pekage/share/ament_index/resource_index/packages
+[0.977s] copying resource/task_pekage -> /home/victor/task_quatro/src/install/task_pekage/share/ament_index/resource_index/packages
+[0.977s] copying package.xml -> /home/victor/task_quatro/src/install/task_pekage/share/task_pekage
+[0.977s] running install_egg_info
+[0.979s] Copying ../build/task_pekage/task_pekage.egg-info to /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage-0.0.0-py3.10.egg-info
+[0.980s] running install_scripts
+[1.000s] writing list of installed files to '/home/victor/task_quatro/src/build/task_pekage/install.log'
+[1.021s] Invoked command in '/home/victor/task_quatro/src/task_pekage' returned '0': PYTHONPATH=/home/victor/task_quatro/src/build/task_pekage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task_pekage build --build-base /home/victor/task_quatro/src/build/task_pekage/build install --record /home/victor/task_quatro/src/build/task_pekage/install.log --single-version-externally-managed install_data

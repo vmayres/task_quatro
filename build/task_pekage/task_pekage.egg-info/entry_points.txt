@@ -1,0 +1,4 @@
+[console_scripts]
+cinematica = task_pekage.cinematica:main
+serial_node_arduino = task_pekage.serial_node_arduino:main
+

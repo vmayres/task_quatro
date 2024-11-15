@@ -1,0 +1,28 @@
+[0.776s] Invoking command in '/home/victor/task_quatro/src/task_pekage': PYTHONPATH=/home/victor/task_quatro/src/build/task_pekage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task_pekage build --build-base /home/victor/task_quatro/src/build/task_pekage/build install --record /home/victor/task_quatro/src/build/task_pekage/install.log --single-version-externally-managed install_data
+[1.038s] running egg_info
+[1.039s] writing ../build/task_pekage/task_pekage.egg-info/PKG-INFO
+[1.039s] writing dependency_links to ../build/task_pekage/task_pekage.egg-info/dependency_links.txt
+[1.039s] writing entry points to ../build/task_pekage/task_pekage.egg-info/entry_points.txt
+[1.040s] writing requirements to ../build/task_pekage/task_pekage.egg-info/requires.txt
+[1.040s] writing top-level names to ../build/task_pekage/task_pekage.egg-info/top_level.txt
+[1.042s] reading manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+[1.043s] writing manifest file '../build/task_pekage/task_pekage.egg-info/SOURCES.txt'
+[1.044s] running build
+[1.044s] running build_py
+[1.045s] copying task_pekage/cinematica.py -> /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage
+[1.045s] copying task_pekage/serial_node_arduino.py -> /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage
+[1.045s] running install
+[1.045s] running install_lib
+[1.046s] copying /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage/cinematica.py -> /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage
+[1.046s] copying /home/victor/task_quatro/src/build/task_pekage/build/lib/task_pekage/serial_node_arduino.py -> /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage
+[1.047s] byte-compiling /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage/cinematica.py to cinematica.cpython-310.pyc
+[1.048s] byte-compiling /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage/serial_node_arduino.py to serial_node_arduino.cpython-310.pyc
+[1.050s] running install_data
+[1.050s] running install_egg_info
+[1.053s] removing '/home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage-0.0.0-py3.10.egg-info' (and everything under it)
+[1.053s] Copying ../build/task_pekage/task_pekage.egg-info to /home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages/task_pekage-0.0.0-py3.10.egg-info
+[1.054s] running install_scripts
+[1.075s] Installing cinematica script to /home/victor/task_quatro/src/install/task_pekage/lib/task_pekage
+[1.075s] Installing serial_node_arduino script to /home/victor/task_quatro/src/install/task_pekage/lib/task_pekage
+[1.075s] writing list of installed files to '/home/victor/task_quatro/src/build/task_pekage/install.log'
+[1.108s] Invoked command in '/home/victor/task_quatro/src/task_pekage' returned '0': PYTHONPATH=/home/victor/task_quatro/src/build/task_pekage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/victor/task_quatro/src/install/task_pekage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task_pekage build --build-base /home/victor/task_quatro/src/build/task_pekage/build install --record /home/victor/task_quatro/src/build/task_pekage/install.log --single-version-externally-managed install_data

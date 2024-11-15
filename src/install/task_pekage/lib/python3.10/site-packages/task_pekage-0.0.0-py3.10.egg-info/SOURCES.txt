@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../build/task_pekage/task_pekage.egg-info/PKG-INFO
+../build/task_pekage/task_pekage.egg-info/SOURCES.txt
+../build/task_pekage/task_pekage.egg-info/dependency_links.txt
+../build/task_pekage/task_pekage.egg-info/entry_points.txt
+../build/task_pekage/task_pekage.egg-info/requires.txt
+../build/task_pekage/task_pekage.egg-info/top_level.txt
+../build/task_pekage/task_pekage.egg-info/zip-safe
+resource/task_pekage
+task_pekage/__init__.py
+task_pekage/cinematica.py
+task_pekage/serial_node_arduino.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
